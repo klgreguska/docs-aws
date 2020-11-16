@@ -14,8 +14,7 @@ services - all backed by AWS certified engineers and architects.
 Our offers allow you to customize your experience with the ability to choose
 the service options to match your needs. These offers are described
 below. For additional detail about what is included in each service block,
-download our
-`Fanatical Support for AWS with Rackspace Service Blocks Service Overview <https://9d31a28d75515373cbe0-39a001adc5755d26f84687a5d61bbba1.ssl.cf1.rackcdn.com/AWS%20files/service_overview_service_blocks.pdf>`_.
+please ask your Customer Success Manager for the Fanatical Support for AWS Service Description. 
 
 
 Platform Essentials
@@ -27,7 +26,7 @@ services are built on top. Platform Essentials includes:
 * AWS Support powered by AWS Certified Rackers and backed by AWS Enterprise
   Support
 
-* Named Account Manager for ongoing business needs
+* Named Customer Success Manager for ongoing business needs
 
 * Unified billing for all your Rackspace platforms and other Managed Public
   Cloud Accounts
@@ -128,7 +127,7 @@ technical support professionals will help you resolve issues quickly
 and effectively any day of the year, any time of the day. Manage & Operate
 includes:
 
-* Named Account Manager to coordinate escalations, follow AWS technical
+* Named Customer Success Manager to coordinate escalations, follow AWS technical
   issues through to resolution, and help focus on the AWS technical
   operations of the account
 
